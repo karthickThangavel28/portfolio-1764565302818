@@ -1,0 +1,30 @@
+{
+    "name": "Karthi",
+    "title": "Full Stack Developer",
+    "about": "I am a MERN stack and AI developer building modern web applications.",
+  
+    "profileImage": "https://i.ibb.co/3FzD9xJ/profile.png",
+  
+    "skills": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
+  
+    "projects": [
+      {
+        "name": "Food Ordering App",
+        "description": "Online food ordering system with payment gateway.",
+        "image": "https://i.ibb.co/q5kY9wN/project1.png",
+        "github": "https://github.com/karthi/food-app"
+      },
+      {
+        "name": "AI Portfolio Builder",
+        "description": "AI-generated portfolio with GitHub auto deploy.",
+        "image": "https://i.ibb.co/n0z3Zfp/project2.png",
+        "github": "https://github.com/karthi/ai-portfolio"
+      }
+    ],
+  
+    "socials": {
+      "github": "https://github.com/karthi",
+      "linkedin": "https://linkedin.com/in/karthi"
+    }
+  }
+  
